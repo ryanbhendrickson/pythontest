@@ -29,4 +29,4 @@ class Person(object):
 
     @classmethod
     def provide_definition():
-        return 'People are just humans. Plain and simple.'
+        return 'People are just humans, I guess...'
